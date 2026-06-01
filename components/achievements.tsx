@@ -6,6 +6,15 @@ import { motion } from "framer-motion";
 
 const posts = [
   {
+    title: "Machine Learning Mastery Bootcamp",
+    category: "Certification",
+    date: "Jun 01, 2026",
+    readTime: "DevTown · 5 Days",
+    image: "/images/certificates/machine_learning_certificate.jpg",
+    excerpt: "Successfully completed a 5-day Machine Learning Mastery bootcamp by DevTown in collaboration with MSME & Startup India, covering core ML concepts, algorithms and real-world applications.",
+    tags: ["Machine Learning", "AI", "DevTown", "Startup India"],
+  },
+  {
     title: "Database Management System Part - 1",
     category: "Certification",
     date: "Jan 02, 2026",
