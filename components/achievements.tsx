@@ -6,6 +6,24 @@ import { motion } from "framer-motion";
 
 const posts = [
   {
+    title: "Machine Learning Mastery — Microsoft Chapter",
+    category: "Certification",
+    date: "Jun 02, 2026",
+    readTime: "DevTown × Microsoft Student Chapter",
+    image: "/images/certificates/microsoftml.jpg",
+    excerpt: "Completed Machine Learning Mastery bootcamp by DevTown in collaboration with Microsoft Student Chapter GNIT — recognized for participation and project completion.",
+    tags: ["Machine Learning", "Microsoft", "DevTown", "AI"],
+  },
+  {
+    title: "Machine Learning Mastery — Google Developers",
+    category: "Certification",
+    date: "Jun 02, 2026",
+    readTime: "DevTown × Google Developer Groups",
+    image: "/images/certificates/googleml.jpg",
+    excerpt: "Completed Machine Learning Mastery bootcamp by DevTown in collaboration with Google Developer Groups On Campus — CSMU. Recognized for participation and project completion.",
+    tags: ["Machine Learning", "Google", "DevTown", "AI"],
+  },
+  {
     title: "Machine Learning Mastery Bootcamp",
     category: "Certification",
     date: "Jun 01, 2026",
