@@ -6,6 +6,15 @@ import { motion } from "framer-motion";
 
 const posts = [
   {
+  title: "Full Stack Web Development Internship",
+  category: "Certification",
+  date: "Jun 11, 2026",
+  readTime: "Future Interns · 1 Month",
+  image: "/images/certificates/future-interns-certificate.jpg",
+  excerpt: "Successfully completed 1-month Full Stack Web Development internship at Future Interns (ISO 9001 Certified, MSME Registered) — awarded Certificate of Completion and Letter of Recommendation.",
+  tags: ["Internship", "Full Stack", "Future Interns", "MSME"],
+  },
+  {
     title: "Machine Learning Mastery — Microsoft Chapter",
     category: "Certification",
     date: "Jun 02, 2026",

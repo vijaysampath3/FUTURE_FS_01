@@ -5,6 +5,12 @@ import { Trophy, GraduationCap, Calendar, Building } from "lucide-react"
 
 const experience = [
   {
+    period: "May 2026",
+    title: "Full Stack Web Development Intern",
+    event: "Future Interns",
+    description: "Completed 1-month structured internship building real-world full stack projects. Awarded Certificate of Completion and Letter of Recommendation.CIN: FIT/MAY26/FS16009",
+  },
+  {
     period: "3rd April 2026",
     title: "DSA Problem Solver",
     event: "Unstop Coding Challenge",
