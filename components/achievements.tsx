@@ -6,6 +6,15 @@ import { motion } from "framer-motion";
 
 const posts = [
   {
+  title: "NeuroLearn — AI Learning Disability Detection",
+  category: "Certification",
+  date: "2025-2026",
+  readTime: "Govt. of AP · Community Service Project",
+  image: "/images/certificates/csp.jpeg",
+  excerpt: "Awarded Certificate of Appreciation by ZP High School, Kanithi, Vadlapudi under the Government of Andhra Pradesh for building NeuroLearn — an AI-powered learning disability detection and personalized learning platform.",
+  tags: ["AI/ML", "React", "FastAPI", "XGBoost", "Community Service"],
+  },
+  {
   title: "Full Stack Web Development Internship",
   category: "Certification",
   date: "Jun 11, 2026",

@@ -5,6 +5,12 @@ import { Trophy, GraduationCap, Calendar, Building } from "lucide-react"
 
 const experience = [
   {
+    period: "2025 – 2026",
+    title: "Community Service Project",
+    event: "ZP High School, Vadlapudi — Govt. of Andhra Pradesh",
+    description: "An AI-powered learning disability detection platform deployed at a real government school. Awarded Certificate of Appreciation by the Headmaster/Principal.",
+  },
+  {
     period: "May 2026",
     title: "Full Stack Web Development Intern",
     event: "Future Interns",
